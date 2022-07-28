@@ -5,6 +5,9 @@ filter: brightness(50%);
 .button-register{
    text-decoration: none;
 }
+.fa-star,.fa-star-half-stroke{
+    color: gold;
+}
 
 @media screen and (max-width:576px){
    
